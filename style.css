@@ -1,6 +1,7 @@
 body {
  
     align-items: center;
+    background-image: linear-gradient(to bottom right, rgb(5, 96, 126), rgb(137, 191, 235));
     height: 100vh;
     margin: 0;
     background-color: #f4f4f4;
@@ -8,6 +9,7 @@ body {
 
 .container {
     text-align: center;
+    max-width: 800px;
     background: #fff;
     padding: 20px;
     border-radius: 8px;
